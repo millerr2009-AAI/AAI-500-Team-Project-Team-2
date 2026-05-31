@@ -70,7 +70,7 @@ AAI-500-Team-Project/
 
 \## Milestones
 
-\- Week 1 (May 20-26): Dataset selection and repo setup ✅
+\- Week 1 (May 20-26): Dataset selection and repo setup
 
 \- Week 2 (May 27-Jun 2): Data cleaning
 
