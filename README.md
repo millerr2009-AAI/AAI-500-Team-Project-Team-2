@@ -3,7 +3,6 @@
 \# Apartment Rental Price Classification
 
 
-
 \## Team Members
 
 \- Russell Miller - Data Engineering Lead, GitHub/Repo Manager
@@ -12,8 +11,6 @@
 
 \- Raul Muollo-Diaz - Modeling \& Evaluation Lead
 
-
-
 \## Project Overview
 
 This project analyzes 99,826 apartment rental listings from across the USA
@@ -21,8 +18,6 @@ This project analyzes 99,826 apartment rental listings from across the USA
 to classify apartments into price categories (Low/Medium/High) based on
 
 features such as location, size, bedrooms, bathrooms, and amenities.
-
-
 
 \## Dataset
 
@@ -34,15 +29,11 @@ features such as location, size, bedrooms, bathrooms, and amenities.
 
 \*\*Features:\*\* 21  
 
-
-
 \*\*Citation:\*\*  
 
 Apartment for Rent Classified \[Dataset]. (2019). UCI Machine Learning
 
 Repository. https://doi.org/10.24432/C5X623
-
-
 
 \## Project Structure
 
@@ -66,8 +57,6 @@ AAI-500-Team-Project/
 
 ```
 
-
-
 \## Milestones
 
 \- Week 1 (May 20-26): Dataset selection and repo setup
@@ -80,8 +69,6 @@ AAI-500-Team-Project/
 
 \- Week 5 (Jun 17-22): Report and presentation
 
-
-
 \## Getting Started
 
 ```bash
@@ -90,21 +77,15 @@ AAI-500-Team-Project/
 
 git clone https://github.com/YOUR-USERNAME/AAI-500-Team-Project.git
 
-
-
 \# Install dependencies
 
 pip install pandas numpy matplotlib scipy ucimlrepo
-
-
 
 \# Run notebook
 
 jupyter notebook notebooks/team\_project\_week1.ipynb
 
 ```
-
-
 
 \## Requirements
 
@@ -120,8 +101,7 @@ jupyter notebook notebooks/team\_project\_week1.ipynb
 
 \- ucimlrepo
 
-
-
+ 
 \## Team Roles
 
 \- \*\*Russell Miller:\*\* Data loading, cleaning, repository management
@@ -130,9 +110,6 @@ jupyter notebook notebooks/team\_project\_week1.ipynb
 
 \- \*\*Raul Muollo-Diaz:\*\* Model building, evaluation, QA
 
-
-
 \## Contact
 
 For questions about this project, contact team members via Slack.
-
